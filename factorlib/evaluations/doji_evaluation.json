@@ -1,0 +1,194 @@
+{
+  "factor_id": "doji",
+  "evaluations": [
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "doji",
+        "data_length": 22279,
+        "missing_ratio": 0.0,
+        "ic_pearson": -0.00039247957587367513,
+        "ic_spearman": -0.0030885456555317806,
+        "ic_kendall": -0.002524343544898367,
+        "mutual_information": 0.008102154013473624,
+        "long_short_return": 0.0,
+        "long_return": 7.892355321775984e-07,
+        "short_return": 7.892355321775984e-07,
+        "returns_std": 0.0004469242622191234,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": 7.892355321775984e-07
+        },
+        "skewness": 2.9192803624168833,
+        "kurtosis": 6.52278338074882,
+        "turnover": 0.15305943663237342,
+        "win_rate": 0.0783697652497868,
+        "autocorr_lag_1": 0.041766566766566794,
+        "autocorr_lag_2": 0.015909696967403544,
+        "autocorr_lag_3": 0.006351143035193015,
+        "autocorr_lag_4": 0.026017598637524852,
+        "autocorr_lag_5": 0.01819849762265449,
+        "autocorr_lag_6": 0.017632113293515356,
+        "autocorr_lag_7": 0.015379247899598195,
+        "autocorr_lag_8": 0.018747972953225858,
+        "autocorr_lag_9": 0.01537076530722296,
+        "autocorr_lag_10": 0.024361177257469703
+      },
+      "evaluated_at": "2025-08-21T17:32:45.109049"
+    },
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "doji",
+        "data_length": 22279,
+        "missing_ratio": 0.0,
+        "ic_pearson": -0.00039247957587367513,
+        "ic_spearman": -0.0030885456555317806,
+        "ic_kendall": -0.002524343544898367,
+        "mutual_information": 0.008102154013473624,
+        "long_short_return": 0.0,
+        "long_return": 7.892355321775984e-07,
+        "short_return": 7.892355321775984e-07,
+        "returns_std": 0.0004469242622191234,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": 7.892355321775984e-07
+        },
+        "skewness": 2.9192803624168833,
+        "kurtosis": 6.52278338074882,
+        "turnover": 0.15305943663237342,
+        "win_rate": 0.0783697652497868,
+        "autocorr_lag_1": 0.041766566766566794,
+        "autocorr_lag_2": 0.015909696967403544,
+        "autocorr_lag_3": 0.006351143035193015,
+        "autocorr_lag_4": 0.026017598637524852,
+        "autocorr_lag_5": 0.01819849762265449,
+        "autocorr_lag_6": 0.017632113293515356,
+        "autocorr_lag_7": 0.015379247899598195,
+        "autocorr_lag_8": 0.018747972953225858,
+        "autocorr_lag_9": 0.01537076530722296,
+        "autocorr_lag_10": 0.024361177257469703
+      },
+      "evaluated_at": "2025-08-21T17:35:38.696537"
+    },
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "doji",
+        "data_length": 39559,
+        "missing_ratio": 0.0,
+        "ic_pearson": -0.00019550922431518948,
+        "ic_spearman": -0.0039333271232769645,
+        "ic_kendall": -0.003214908849385122,
+        "mutual_information": 0.008320471978083365,
+        "long_short_return": 0.0,
+        "long_return": -1.5093937001646893e-08,
+        "short_return": -1.5093937001646893e-08,
+        "returns_std": 0.0004395085970060876,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": -1.5093937001646893e-08
+        },
+        "skewness": 2.881860862944739,
+        "kurtosis": 6.305440817480733,
+        "turnover": 0.15514808164091148,
+        "win_rate": 0.07927399580373619,
+        "autocorr_lag_1": 0.045411154874505505,
+        "autocorr_lag_2": 0.021147430267714363,
+        "autocorr_lag_3": 0.02363335639400485,
+        "autocorr_lag_4": 0.020831536173533394,
+        "autocorr_lag_5": 0.014637832280645453,
+        "autocorr_lag_6": 0.0183684224001525,
+        "autocorr_lag_7": 0.020543597474826675,
+        "autocorr_lag_8": 0.01836355888273968,
+        "autocorr_lag_9": 0.01805003869929497,
+        "autocorr_lag_10": 0.01773651683931783
+      },
+      "evaluated_at": "2025-08-21T17:50:44.964757"
+    }
+  ]
+}

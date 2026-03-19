@@ -1,0 +1,52 @@
+{
+  "mining_sessions": [
+    {
+      "session_id": "1eb12394-b1a0-46fe-b87e-8791563156d0",
+      "timestamp": "2025-08-21T17:35:41.368255",
+      "status": "completed",
+      "config": {
+        "symbols": [
+          "BTC_USDT"
+        ],
+        "timeframes": [
+          "1m"
+        ],
+        "factor_types": [
+          "technical"
+        ],
+        "max_factors": 15,
+        "optimization_method": "greedy",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-20"
+      },
+      "results": {
+        "total_factors": 82,
+        "selected_factors": [
+          "returns_zscore_50",
+          "momentum_5",
+          "momentum_50",
+          "price_deviation_100",
+          "price_deviation_50",
+          "ma_distance_5_50",
+          "ma_distance_10_50",
+          "ma_distance_20_50",
+          "momentum_20",
+          "vwap_distance",
+          "support_distance",
+          "momentum_10",
+          "price_deviation_20",
+          "returns_momentum_5",
+          "ma_distance_5_10"
+        ],
+        "optimization_score": 0.8840857501098851,
+        "execution_time": 0,
+        "output_path": ""
+      }
+    }
+  ],
+  "metadata": {
+    "total_sessions": 1,
+    "last_updated": "2025-08-21T17:35:41.368317",
+    "version": "1.0"
+  }
+}

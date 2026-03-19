@@ -1,0 +1,194 @@
+{
+  "factor_id": "stoch_oversold",
+  "evaluations": [
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "stoch_oversold",
+        "data_length": 22279,
+        "missing_ratio": 0.0,
+        "ic_pearson": -0.3244862413825569,
+        "ic_spearman": -0.36194975363731446,
+        "ic_kendall": -0.2958303441412435,
+        "mutual_information": 0.02054419353884437,
+        "long_short_return": 0.0,
+        "long_return": 7.892355321775984e-07,
+        "short_return": 7.892355321775984e-07,
+        "returns_std": 0.0004469242622191234,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": 7.892355321775984e-07
+        },
+        "skewness": 1.108414537252714,
+        "kurtosis": -0.7714864784981192,
+        "turnover": 0.13583045060424995,
+        "win_rate": 0.1521612280623008,
+        "autocorr_lag_1": 0.6451595586218289,
+        "autocorr_lag_2": 0.4970668560986366,
+        "autocorr_lag_3": 0.39027500341352106,
+        "autocorr_lag_4": 0.3081226708418102,
+        "autocorr_lag_5": 0.24568236331933843,
+        "autocorr_lag_6": 0.19755687653307044,
+        "autocorr_lag_7": 0.15858337457246888,
+        "autocorr_lag_8": 0.11960865627391626,
+        "autocorr_lag_9": 0.08978649314623824,
+        "autocorr_lag_10": 0.054564936339319706
+      },
+      "evaluated_at": "2025-08-21T17:32:45.062432"
+    },
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "stoch_oversold",
+        "data_length": 22279,
+        "missing_ratio": 0.0,
+        "ic_pearson": -0.3244862413825569,
+        "ic_spearman": -0.36194975363731446,
+        "ic_kendall": -0.2958303441412435,
+        "mutual_information": 0.02054419353884437,
+        "long_short_return": 0.0,
+        "long_return": 7.892355321775984e-07,
+        "short_return": 7.892355321775984e-07,
+        "returns_std": 0.0004469242622191234,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": 7.892355321775984e-07
+        },
+        "skewness": 1.108414537252714,
+        "kurtosis": -0.7714864784981192,
+        "turnover": 0.13583045060424995,
+        "win_rate": 0.1521612280623008,
+        "autocorr_lag_1": 0.6451595586218289,
+        "autocorr_lag_2": 0.4970668560986366,
+        "autocorr_lag_3": 0.39027500341352106,
+        "autocorr_lag_4": 0.3081226708418102,
+        "autocorr_lag_5": 0.24568236331933843,
+        "autocorr_lag_6": 0.19755687653307044,
+        "autocorr_lag_7": 0.15858337457246888,
+        "autocorr_lag_8": 0.11960865627391626,
+        "autocorr_lag_9": 0.08978649314623824,
+        "autocorr_lag_10": 0.054564936339319706
+      },
+      "evaluated_at": "2025-08-21T17:35:38.690392"
+    },
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "stoch_oversold",
+        "data_length": 39559,
+        "missing_ratio": 0.0,
+        "ic_pearson": -0.33076629843906513,
+        "ic_spearman": -0.3654937977927754,
+        "ic_kendall": -0.29873672036218035,
+        "mutual_information": 0.021340174048729118,
+        "long_short_return": 0.0,
+        "long_return": -1.5093937001646893e-08,
+        "short_return": -1.5093937001646893e-08,
+        "returns_std": 0.0004395085970060876,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": -1.5093937001646893e-08
+        },
+        "skewness": 1.0852880002235235,
+        "kurtosis": -0.8221915269890214,
+        "turnover": 0.13585194365057288,
+        "win_rate": 0.15356808817209738,
+        "autocorr_lag_1": 0.6484342423117293,
+        "autocorr_lag_2": 0.49869363076146783,
+        "autocorr_lag_3": 0.39607094032937673,
+        "autocorr_lag_4": 0.32093367624596675,
+        "autocorr_lag_5": 0.2532559619048893,
+        "autocorr_lag_6": 0.20259326544879339,
+        "autocorr_lag_7": 0.160045166804673,
+        "autocorr_lag_8": 0.12783712316062437,
+        "autocorr_lag_9": 0.09680658052106605,
+        "autocorr_lag_10": 0.06355020247655625
+      },
+      "evaluated_at": "2025-08-21T17:50:44.955423"
+    }
+  ]
+}

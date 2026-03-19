@@ -1,0 +1,20 @@
+{
+  "factor_id": "macd",
+  "name": "macd",
+  "description": "自动生成的macd因子",
+  "category": "technical",
+  "subcategory": "",
+  "computation_type": "formula",
+  "computation_data": {
+    "formula_file": "formulas/macd.txt",
+    "formula": "# macd 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-08-21 17:50:48.769713",
+    "language": "pandas"
+  },
+  "parameters": {},
+  "dependencies": [],
+  "output_type": "series",
+  "metadata": {
+    "checksum": "0ea6a305",
+    "created_at": "2025-08-21T17:50:48.769760"
+  }
+}

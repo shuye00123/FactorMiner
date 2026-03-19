@@ -1,0 +1,194 @@
+{
+  "factor_id": "rsi_oversold_21",
+  "evaluations": [
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "rsi_oversold_21",
+        "data_length": 22279,
+        "missing_ratio": 0.0,
+        "ic_pearson": -0.10737933868461197,
+        "ic_spearman": -0.08696527190347272,
+        "ic_kendall": -0.07107883361434861,
+        "mutual_information": 0.003124117278929447,
+        "long_short_return": 0.0,
+        "long_return": 7.892355321775984e-07,
+        "short_return": 7.892355321775984e-07,
+        "returns_std": 0.0004469242622191234,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": 7.892355321775984e-07
+        },
+        "skewness": 7.241949703713371,
+        "kurtosis": 50.450364464378964,
+        "turnover": 0.010332899052068826,
+        "win_rate": 0.053323757798824006,
+        "autocorr_lag_1": 0.7086734457171077,
+        "autocorr_lag_2": 0.5566766169154276,
+        "autocorr_lag_3": 0.46294494429198346,
+        "autocorr_lag_4": 0.37681295893321315,
+        "autocorr_lag_5": 0.31094709335545334,
+        "autocorr_lag_6": 0.2577475432039246,
+        "autocorr_lag_7": 0.2096144790451029,
+        "autocorr_lag_8": 0.18174764751394784,
+        "autocorr_lag_9": 0.1640139343523841,
+        "autocorr_lag_10": 0.14121360545332018
+      },
+      "evaluated_at": "2025-08-21T17:32:45.052086"
+    },
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "rsi_oversold_21",
+        "data_length": 22279,
+        "missing_ratio": 0.0,
+        "ic_pearson": -0.10737933868461197,
+        "ic_spearman": -0.08696527190347272,
+        "ic_kendall": -0.07107883361434861,
+        "mutual_information": 0.003124117278929447,
+        "long_short_return": 0.0,
+        "long_return": 7.892355321775984e-07,
+        "short_return": 7.892355321775984e-07,
+        "returns_std": 0.0004469242622191234,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": 7.892355321775984e-07
+        },
+        "skewness": 7.241949703713371,
+        "kurtosis": 50.450364464378964,
+        "turnover": 0.010332899052068826,
+        "win_rate": 0.053323757798824006,
+        "autocorr_lag_1": 0.7086734457171077,
+        "autocorr_lag_2": 0.5566766169154276,
+        "autocorr_lag_3": 0.46294494429198346,
+        "autocorr_lag_4": 0.37681295893321315,
+        "autocorr_lag_5": 0.31094709335545334,
+        "autocorr_lag_6": 0.2577475432039246,
+        "autocorr_lag_7": 0.2096144790451029,
+        "autocorr_lag_8": 0.18174764751394784,
+        "autocorr_lag_9": 0.1640139343523841,
+        "autocorr_lag_10": 0.14121360545332018
+      },
+      "evaluated_at": "2025-08-21T17:35:38.688271"
+    },
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "rsi_oversold_21",
+        "data_length": 39559,
+        "missing_ratio": 0.0,
+        "ic_pearson": -0.11274992783111401,
+        "ic_spearman": -0.09463897881572704,
+        "ic_kendall": -0.07735326377785938,
+        "mutual_information": 0.00315746578450571,
+        "long_short_return": 0.0,
+        "long_return": -1.5093937001646893e-08,
+        "short_return": -1.5093937001646893e-08,
+        "returns_std": 0.0004395085970060876,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": -1.5093937001646893e-08
+        },
+        "skewness": 7.039769531687395,
+        "kurtosis": 47.56075960484444,
+        "turnover": 0.011482333898176484,
+        "win_rate": 0.05488005257969109,
+        "autocorr_lag_1": 0.6926894149981888,
+        "autocorr_lag_2": 0.5464797512010099,
+        "autocorr_lag_3": 0.45306784955463253,
+        "autocorr_lag_4": 0.37860895986180376,
+        "autocorr_lag_5": 0.3163341411122455,
+        "autocorr_lag_6": 0.2635358223463422,
+        "autocorr_lag_7": 0.22021401750918057,
+        "autocorr_lag_8": 0.18907633209280042,
+        "autocorr_lag_9": 0.164707598282628,
+        "autocorr_lag_10": 0.13627744922978735
+      },
+      "evaluated_at": "2025-08-21T17:50:44.952650"
+    }
+  ]
+}

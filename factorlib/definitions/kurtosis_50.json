@@ -1,0 +1,20 @@
+{
+  "factor_id": "kurtosis_50",
+  "name": "kurtosis_50",
+  "description": "自动生成的kurtosis_50因子",
+  "category": "technical",
+  "subcategory": "",
+  "computation_type": "formula",
+  "computation_data": {
+    "formula_file": "formulas/kurtosis_50.txt",
+    "formula": "# kurtosis_50 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-08-21 17:50:48.775845",
+    "language": "pandas"
+  },
+  "parameters": {},
+  "dependencies": [],
+  "output_type": "series",
+  "metadata": {
+    "checksum": "60af3108",
+    "created_at": "2025-08-21T17:50:48.775894"
+  }
+}

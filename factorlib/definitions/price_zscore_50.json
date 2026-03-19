@@ -1,0 +1,20 @@
+{
+  "factor_id": "price_zscore_50",
+  "name": "price_zscore_50",
+  "description": "自动生成的price_zscore_50因子",
+  "category": "technical",
+  "subcategory": "",
+  "computation_type": "formula",
+  "computation_data": {
+    "formula_file": "formulas/price_zscore_50.txt",
+    "formula": "# price_zscore_50 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-08-21 17:50:48.776405",
+    "language": "pandas"
+  },
+  "parameters": {},
+  "dependencies": [],
+  "output_type": "series",
+  "metadata": {
+    "checksum": "e5ca4645",
+    "created_at": "2025-08-21T17:50:48.776450"
+  }
+}

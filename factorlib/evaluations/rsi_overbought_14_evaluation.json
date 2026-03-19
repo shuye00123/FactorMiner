@@ -1,0 +1,194 @@
+{
+  "factor_id": "rsi_overbought_14",
+  "evaluations": [
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "rsi_overbought_14",
+        "data_length": 22279,
+        "missing_ratio": 0.0,
+        "ic_pearson": 0.14869722611667038,
+        "ic_spearman": 0.1615717403174243,
+        "ic_kendall": 0.13205651630170256,
+        "mutual_information": 0.004411974316064852,
+        "long_short_return": 0.0,
+        "long_return": 7.892355321775984e-07,
+        "short_return": 7.892355321775984e-07,
+        "returns_std": 0.0004469242622191234,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": 7.892355321775984e-07
+        },
+        "skewness": 3.8055133970789865,
+        "kurtosis": 12.48305281888411,
+        "turnover": 0.031072824475493057,
+        "win_rate": 0.07132277032182772,
+        "autocorr_lag_1": 0.7124789437177235,
+        "autocorr_lag_2": 0.5683513689424164,
+        "autocorr_lag_3": 0.4573331414728484,
+        "autocorr_lag_4": 0.3777996185507163,
+        "autocorr_lag_5": 0.31981359392677855,
+        "autocorr_lag_6": 0.28506170334054576,
+        "autocorr_lag_7": 0.24945238513226942,
+        "autocorr_lag_8": 0.2237999616029468,
+        "autocorr_lag_9": 0.19479944832961377,
+        "autocorr_lag_10": 0.1781520904392621
+      },
+      "evaluated_at": "2025-08-21T17:32:45.047008"
+    },
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "rsi_overbought_14",
+        "data_length": 22279,
+        "missing_ratio": 0.0,
+        "ic_pearson": 0.14869722611667038,
+        "ic_spearman": 0.1615717403174243,
+        "ic_kendall": 0.13205651630170256,
+        "mutual_information": 0.004411974316064852,
+        "long_short_return": 0.0,
+        "long_return": 7.892355321775984e-07,
+        "short_return": 7.892355321775984e-07,
+        "returns_std": 0.0004469242622191234,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": 7.892355321775984e-07
+        },
+        "skewness": 3.8055133970789865,
+        "kurtosis": 12.48305281888411,
+        "turnover": 0.031072824475493057,
+        "win_rate": 0.07132277032182772,
+        "autocorr_lag_1": 0.7124789437177235,
+        "autocorr_lag_2": 0.5683513689424164,
+        "autocorr_lag_3": 0.4573331414728484,
+        "autocorr_lag_4": 0.3777996185507163,
+        "autocorr_lag_5": 0.31981359392677855,
+        "autocorr_lag_6": 0.28506170334054576,
+        "autocorr_lag_7": 0.24945238513226942,
+        "autocorr_lag_8": 0.2237999616029468,
+        "autocorr_lag_9": 0.19479944832961377,
+        "autocorr_lag_10": 0.1781520904392621
+      },
+      "evaluated_at": "2025-08-21T17:35:38.687187"
+    },
+    {
+      "metadata": {
+        "mining_session": true,
+        "mining_config": {
+          "factor_types": [
+            "technical"
+          ],
+          "optimization": {
+            "method": "greedy",
+            "max_factors": 15,
+            "min_ic": 0.02,
+            "min_ir": 0.1
+          },
+          "evaluation": {
+            "min_sample_size": 30,
+            "metrics": [
+              "ic_pearson",
+              "ic_spearman",
+              "sharpe_ratio",
+              "win_rate",
+              "factor_decay"
+            ]
+          }
+        },
+        "factor_type": [
+          "technical"
+        ],
+        "symbols": [],
+        "timeframes": []
+      },
+      "results": {
+        "factor_name": "rsi_overbought_14",
+        "data_length": 39559,
+        "missing_ratio": 0.0,
+        "ic_pearson": 0.14302109989476824,
+        "ic_spearman": 0.15495085377284806,
+        "ic_kendall": 0.1266492349609315,
+        "mutual_information": 0.003629708417943497,
+        "long_short_return": 0.0,
+        "long_return": -1.5093937001646893e-08,
+        "short_return": -1.5093937001646893e-08,
+        "returns_std": 0.0004395085970060876,
+        "sharpe_ratio": 0.0,
+        "group_returns": {
+          "0": -1.5093937001646893e-08
+        },
+        "skewness": 3.7844665233868655,
+        "kurtosis": 12.322809873250314,
+        "turnover": 0.02892460608513114,
+        "win_rate": 0.07247402613817336,
+        "autocorr_lag_1": 0.7348013460214855,
+        "autocorr_lag_2": 0.5936642829237488,
+        "autocorr_lag_3": 0.48583523059788425,
+        "autocorr_lag_4": 0.4076266855017421,
+        "autocorr_lag_5": 0.34793031226797383,
+        "autocorr_lag_6": 0.30443904560369994,
+        "autocorr_lag_7": 0.26742305402835903,
+        "autocorr_lag_8": 0.2382780520484566,
+        "autocorr_lag_9": 0.21097697647919292,
+        "autocorr_lag_10": 0.19287987953054414
+      },
+      "evaluated_at": "2025-08-21T17:50:44.951506"
+    }
+  ]
+}
