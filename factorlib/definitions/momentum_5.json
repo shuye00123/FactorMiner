@@ -7,14 +7,14 @@
   "computation_type": "formula",
   "computation_data": {
     "formula_file": "formulas/momentum_5.txt",
-    "formula": "# momentum_5 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-08-21 17:50:48.767551",
+    "formula": "# momentum_5 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-09-01 15:38:18.606474",
     "language": "pandas"
   },
   "parameters": {},
   "dependencies": [],
   "output_type": "series",
   "metadata": {
-    "checksum": "0dbf0be8",
-    "created_at": "2025-08-21T17:50:48.767600"
+    "checksum": "eeb529f3",
+    "created_at": "2025-09-01T15:38:18.606564"
   }
 }

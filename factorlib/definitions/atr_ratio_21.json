@@ -7,14 +7,14 @@
   "computation_type": "formula",
   "computation_data": {
     "formula_file": "formulas/atr_ratio_21.txt",
-    "formula": "# atr_ratio_21 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-08-21 17:50:48.772810",
+    "formula": "# atr_ratio_21 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-09-01 15:38:18.617150",
     "language": "pandas"
   },
   "parameters": {},
   "dependencies": [],
   "output_type": "series",
   "metadata": {
-    "checksum": "1b7bd0ff",
-    "created_at": "2025-08-21T17:50:48.772860"
+    "checksum": "095c7a29",
+    "created_at": "2025-09-01T15:38:18.617311"
   }
 }

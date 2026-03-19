@@ -6,7 +6,12 @@
         "mining_session": true,
         "mining_config": {
           "factor_types": [
-            "technical"
+            "technical",
+            "statistical",
+            "crypto",
+            "pattern",
+            "composite",
+            "sentiment"
           ],
           "optimization": {
             "method": "greedy",
@@ -26,54 +31,60 @@
           }
         },
         "factor_type": [
-          "technical"
+          "technical",
+          "statistical",
+          "crypto",
+          "pattern",
+          "composite",
+          "sentiment"
         ],
         "symbols": [],
         "timeframes": []
       },
       "results": {
         "factor_name": "kurtosis_20",
-        "data_length": 22279,
+        "data_length": 156385,
         "missing_ratio": 0.0,
-        "ic_pearson": 0.0015383584178669085,
-        "ic_spearman": 0.00284128151211612,
-        "ic_kendall": 0.0019481220953091389,
-        "mutual_information": 0.003860399657727441,
-        "long_short_return": 2.2700237436280814e-06,
-        "long_return": 3.7684398556229686e-06,
-        "short_return": 1.4984161119948874e-06,
-        "returns_std": 0.0004469242622191234,
-        "sharpe_ratio": 0.005079213494377503,
+        "ic_pearson": 0.021190263226816376,
+        "ic_spearman": 0.0017346236001348943,
+        "ic_kendall": 0.0011918498440196435,
+        "mutual_information": 0.005689160182452492,
+        "long_short_return": 6.458196741624406e-05,
+        "long_return": 4.895733887123538e-05,
+        "short_return": -1.5624628545008675e-05,
+        "returns_std": 0.0028362828272566576,
+        "sharpe_ratio": 0.022769932108184635,
         "group_returns": {
-          "0": 1.4984161119948874e-06,
-          "1": -8.955054203870825e-07,
-          "2": -1.1513218492585386e-06,
-          "3": 7.253353860903529e-07,
-          "4": 3.7684398556229686e-06
+          "0": -1.5624628545008675e-05,
+          "1": -2.6444283784397257e-05,
+          "2": 1.7044970790065338e-05,
+          "3": 2.5290545996570642e-05,
+          "4": 4.895733887123538e-05
         },
-        "skewness": 2.392285278718339,
-        "kurtosis": 8.254734664092506,
-        "turnover": 0.36538336507699615,
-        "win_rate": 0.47573948561425555,
-        "autocorr_lag_1": 0.9159778836586419,
-        "autocorr_lag_2": 0.8405579741147167,
-        "autocorr_lag_3": 0.7694958845663485,
-        "autocorr_lag_4": 0.7065131701176416,
-        "autocorr_lag_5": 0.6470243290371388,
-        "autocorr_lag_6": 0.5926303719321835,
-        "autocorr_lag_7": 0.5396541035275664,
-        "autocorr_lag_8": 0.49126325387474257,
-        "autocorr_lag_9": 0.44406753073576594,
-        "autocorr_lag_10": 0.3991862088174453
+        "skewness": 2.909035304109447,
+        "kurtosis": 12.170367212453467,
+        "turnover": 0.3438238145411729,
+        "win_rate": 0.4698148799437286,
+        "autocorr_lag_1": 0.9106758159791624,
+        "autocorr_lag_2": 0.8331994753645888,
+        "autocorr_lag_3": 0.7631798050466533,
+        "autocorr_lag_4": 0.699041925751519,
+        "autocorr_lag_5": 0.6388056168048285,
+        "autocorr_lag_6": 0.5823854222316444,
+        "autocorr_lag_7": 0.5284188190292828,
+        "autocorr_lag_8": 0.4776774545550754,
+        "autocorr_lag_9": 0.4299628275511054,
+        "autocorr_lag_10": 0.38552503008262423
       },
-      "evaluated_at": "2025-08-21T17:32:45.115573"
+      "evaluated_at": "2025-08-25T14:48:19.929824"
     },
     {
       "metadata": {
         "mining_session": true,
         "mining_config": {
           "factor_types": [
-            "technical"
+            "technical",
+            "statistical"
           ],
           "optimization": {
             "method": "greedy",
@@ -93,54 +104,56 @@
           }
         },
         "factor_type": [
-          "technical"
+          "technical",
+          "statistical"
         ],
         "symbols": [],
         "timeframes": []
       },
       "results": {
         "factor_name": "kurtosis_20",
-        "data_length": 22279,
+        "data_length": 53185,
         "missing_ratio": 0.0,
-        "ic_pearson": 0.0015383584178669085,
-        "ic_spearman": 0.00284128151211612,
-        "ic_kendall": 0.0019481220953091389,
-        "mutual_information": 0.003860399657727441,
-        "long_short_return": 2.2700237436280814e-06,
-        "long_return": 3.7684398556229686e-06,
-        "short_return": 1.4984161119948874e-06,
-        "returns_std": 0.0004469242622191234,
-        "sharpe_ratio": 0.005079213494377503,
+        "ic_pearson": 0.040828059596322436,
+        "ic_spearman": -0.004730711419088933,
+        "ic_kendall": -0.0032065929227333262,
+        "mutual_information": 0.010478799227200302,
+        "long_short_return": 8.342854771586293e-05,
+        "long_return": 5.851413151479888e-05,
+        "short_return": -2.4914416201064046e-05,
+        "returns_std": 0.00483337838237605,
+        "sharpe_ratio": 0.01726091795752397,
         "group_returns": {
-          "0": 1.4984161119948874e-06,
-          "1": -8.955054203870825e-07,
-          "2": -1.1513218492585386e-06,
-          "3": 7.253353860903529e-07,
-          "4": 3.7684398556229686e-06
+          "0": -2.4914416201064046e-05,
+          "1": 7.064964566534471e-05,
+          "2": -1.836444108512932e-05,
+          "3": 5.6960774174884664e-05,
+          "4": 5.851413151479888e-05
         },
-        "skewness": 2.392285278718339,
-        "kurtosis": 8.254734664092506,
-        "turnover": 0.36538336507699615,
-        "win_rate": 0.47573948561425555,
-        "autocorr_lag_1": 0.9159778836586419,
-        "autocorr_lag_2": 0.8405579741147167,
-        "autocorr_lag_3": 0.7694958845663485,
-        "autocorr_lag_4": 0.7065131701176416,
-        "autocorr_lag_5": 0.6470243290371388,
-        "autocorr_lag_6": 0.5926303719321835,
-        "autocorr_lag_7": 0.5396541035275664,
-        "autocorr_lag_8": 0.49126325387474257,
-        "autocorr_lag_9": 0.44406753073576594,
-        "autocorr_lag_10": 0.3991862088174453
+        "skewness": 2.994121396882001,
+        "kurtosis": 16.585469643042746,
+        "turnover": 0.4860905593275422,
+        "win_rate": 0.48186518755288144,
+        "autocorr_lag_1": 0.7474463076590886,
+        "autocorr_lag_2": 0.5442615329787516,
+        "autocorr_lag_3": 0.3915167916282954,
+        "autocorr_lag_4": 0.2743741278063136,
+        "autocorr_lag_5": 0.17763134869385094,
+        "autocorr_lag_6": 0.09951613945937332,
+        "autocorr_lag_7": 0.03899186487072244,
+        "autocorr_lag_8": -0.006352635200660735,
+        "autocorr_lag_9": -0.03648301267732554,
+        "autocorr_lag_10": -0.04833301243009252
       },
-      "evaluated_at": "2025-08-21T17:35:38.697768"
+      "evaluated_at": "2025-09-01T15:31:29.258185"
     },
     {
       "metadata": {
         "mining_session": true,
         "mining_config": {
           "factor_types": [
-            "technical"
+            "technical",
+            "statistical"
           ],
           "optimization": {
             "method": "greedy",
@@ -160,47 +173,48 @@
           }
         },
         "factor_type": [
-          "technical"
+          "technical",
+          "statistical"
         ],
         "symbols": [],
         "timeframes": []
       },
       "results": {
         "factor_name": "kurtosis_20",
-        "data_length": 39559,
+        "data_length": 53185,
         "missing_ratio": 0.0,
-        "ic_pearson": 0.0048002407935014415,
-        "ic_spearman": 0.0013997000170184789,
-        "ic_kendall": 0.0009846825849480923,
-        "mutual_information": 0.002846436776499598,
-        "long_short_return": 7.445993658790692e-07,
-        "long_return": 1.6790267146238072e-06,
-        "short_return": 9.34427348744738e-07,
-        "returns_std": 0.0004395085970060876,
-        "sharpe_ratio": 0.0016941633700711337,
+        "ic_pearson": 0.040828059596322436,
+        "ic_spearman": -0.004730711419088933,
+        "ic_kendall": -0.0032065929227333262,
+        "mutual_information": 0.010478799227200302,
+        "long_short_return": 8.342854771586293e-05,
+        "long_return": 5.851413151479888e-05,
+        "short_return": -2.4914416201064046e-05,
+        "returns_std": 0.00483337838237605,
+        "sharpe_ratio": 0.01726091795752397,
         "group_returns": {
-          "0": 9.34427348744738e-07,
-          "1": -1.73920154069994e-06,
-          "2": -4.159021296551137e-06,
-          "3": 3.2085574262146348e-06,
-          "4": 1.6790267146238072e-06
+          "0": -2.4914416201064046e-05,
+          "1": 7.064964566534471e-05,
+          "2": -1.836444108512932e-05,
+          "3": 5.6960774174884664e-05,
+          "4": 5.851413151479888e-05
         },
-        "skewness": 2.729722522500628,
-        "kurtosis": 12.400765798402906,
-        "turnover": 0.3733043057061599,
-        "win_rate": 0.4739250233827953,
-        "autocorr_lag_1": 0.9205910253896501,
-        "autocorr_lag_2": 0.8507612448881503,
-        "autocorr_lag_3": 0.7857043589729151,
-        "autocorr_lag_4": 0.726013786856451,
-        "autocorr_lag_5": 0.6695277268495755,
-        "autocorr_lag_6": 0.6179024889837926,
-        "autocorr_lag_7": 0.5689535748014584,
-        "autocorr_lag_8": 0.5234380898425174,
-        "autocorr_lag_9": 0.47953622314074684,
-        "autocorr_lag_10": 0.4378523039492221
+        "skewness": 2.994121396882001,
+        "kurtosis": 16.585469643042746,
+        "turnover": 0.4860905593275422,
+        "win_rate": 0.48186518755288144,
+        "autocorr_lag_1": 0.7474463076590886,
+        "autocorr_lag_2": 0.5442615329787516,
+        "autocorr_lag_3": 0.3915167916282954,
+        "autocorr_lag_4": 0.2743741278063136,
+        "autocorr_lag_5": 0.17763134869385094,
+        "autocorr_lag_6": 0.09951613945937332,
+        "autocorr_lag_7": 0.03899186487072244,
+        "autocorr_lag_8": -0.006352635200660735,
+        "autocorr_lag_9": -0.03648301267732554,
+        "autocorr_lag_10": -0.04833301243009252
       },
-      "evaluated_at": "2025-08-21T17:50:44.966320"
+      "evaluated_at": "2025-09-01T15:31:29.258516"
     }
   ]
 }

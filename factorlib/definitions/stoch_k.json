@@ -7,14 +7,14 @@
   "computation_type": "formula",
   "computation_data": {
     "formula_file": "formulas/stoch_k.txt",
-    "formula": "# stoch_k 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-08-21 17:50:48.770326",
+    "formula": "# stoch_k 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-09-01 15:38:18.612924",
     "language": "pandas"
   },
   "parameters": {},
   "dependencies": [],
   "output_type": "series",
   "metadata": {
-    "checksum": "7881bfc1",
-    "created_at": "2025-08-21T17:50:48.770370"
+    "checksum": "87876597",
+    "created_at": "2025-09-01T15:38:18.613012"
   }
 }

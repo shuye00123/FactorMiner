@@ -7,14 +7,14 @@
   "computation_type": "formula",
   "computation_data": {
     "formula_file": "formulas/price_zscore_20.txt",
-    "formula": "# price_zscore_20 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-08-21 17:50:48.776177",
+    "formula": "# price_zscore_20 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-09-01 15:38:18.627638",
     "language": "pandas"
   },
   "parameters": {},
   "dependencies": [],
   "output_type": "series",
   "metadata": {
-    "checksum": "d1ba9532",
-    "created_at": "2025-08-21T17:50:48.776224"
+    "checksum": "c9d3f47b",
+    "created_at": "2025-09-01T15:38:18.627806"
   }
 }

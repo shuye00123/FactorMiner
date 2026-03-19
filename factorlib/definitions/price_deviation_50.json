@@ -7,14 +7,14 @@
   "computation_type": "formula",
   "computation_data": {
     "formula_file": "formulas/price_deviation_50.txt",
-    "formula": "# price_deviation_50 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-08-21 17:50:48.765821",
+    "formula": "# price_deviation_50 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-09-01 15:38:18.604305",
     "language": "pandas"
   },
   "parameters": {},
   "dependencies": [],
   "output_type": "series",
   "metadata": {
-    "checksum": "10e1a484",
-    "created_at": "2025-08-21T17:50:48.765953"
+    "checksum": "4a742979",
+    "created_at": "2025-09-01T15:38:18.604473"
   }
 }

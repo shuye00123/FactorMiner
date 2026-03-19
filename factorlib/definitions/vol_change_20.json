@@ -7,14 +7,14 @@
   "computation_type": "formula",
   "computation_data": {
     "formula_file": "formulas/vol_change_20.txt",
-    "formula": "# vol_change_20 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-08-21 17:50:48.771449",
+    "formula": "# vol_change_20 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-09-01 15:38:18.615735",
     "language": "pandas"
   },
   "parameters": {},
   "dependencies": [],
   "output_type": "series",
   "metadata": {
-    "checksum": "d302791d",
-    "created_at": "2025-08-21T17:50:48.771729"
+    "checksum": "31470735",
+    "created_at": "2025-09-01T15:38:18.615823"
   }
 }

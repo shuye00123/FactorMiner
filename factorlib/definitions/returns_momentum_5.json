@@ -7,14 +7,14 @@
   "computation_type": "formula",
   "computation_data": {
     "formula_file": "formulas/returns_momentum_5.txt",
-    "formula": "# returns_momentum_5 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-08-21 17:50:48.767661",
+    "formula": "# returns_momentum_5 因子的计算公式\n# 类型: technical\n# 自动生成于 2025-09-01 15:38:18.606643",
     "language": "pandas"
   },
   "parameters": {},
   "dependencies": [],
   "output_type": "series",
   "metadata": {
-    "checksum": "67546f07",
-    "created_at": "2025-08-21T17:50:48.767710"
+    "checksum": "f89725d3",
+    "created_at": "2025-09-01T15:38:18.606719"
   }
 }
