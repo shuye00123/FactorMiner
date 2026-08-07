@@ -90,3 +90,26 @@ dmypy.json
 *.bak
 *.backup
 *~
+
+# FactorMiner V4 Specifics
+data/
+!data/.gitkeep
+!data/binance/.gitkeep
+!data/binance/spot/.gitkeep
+!data/binance/futures/.gitkeep
+factor_db/
+!factor_db/.gitkeep
+user_workspace/experiments/
+web/node_modules/
+web/dist/
+.env
+*.tsbuildinfo
+
+# Obsidian
+.obsidian/
+
+# Scratch and test files
+test_*.py
+!tests/test_*.py
+demo_v4_script.py
+implementation_plan.md
